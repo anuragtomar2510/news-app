@@ -1,5 +1,5 @@
 
-# News - App
+# News App
 
 A News Application designed to keep you informed with the latest headlines. By default, it features the Top 20 news stories, complete with images, concise descriptions, and sources for each article. Users have the option to select specific categories— such as business, science, technology, sports, and entertainment—ensuring they receive news that matters most to them. The application leverages the India News API which can be found [here](https://newsapi.org/s/india-news-api), drawing content from a variety of trusted sources to provide a comprehensive news experience. With a user-friendly interface and real-time updates, staying informed has never been easier. Explore the diverse world of news right at your fingertips!
 
