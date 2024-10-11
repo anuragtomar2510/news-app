@@ -1,11 +1,11 @@
 
-# News -App
+# News - App
 
-It is a React-based News Application. By default, it displays current Top 20 News Headlines with image, a short description and source of published articles. Also, user can select a category like business, science, technology, sports & entertainment to get category-specific news. This application uses India News API to fetch news from different sources which can be found [here](https://newsapi.org/s/india-news-api).
+A News Application designed to keep you informed with the latest headlines. By default, it features the Top 20 news stories, complete with images, concise descriptions, and sources for each article. Users have the option to select specific categories— such as business, science, technology, sports, and entertainment—ensuring they receive news that matters most to them. The application leverages the India News API which can be found [here](https://newsapi.org/s/india-news-api), drawing content from a variety of trusted sources to provide a comprehensive news experience. With a user-friendly interface and real-time updates, staying informed has never been easier. Explore the diverse world of news right at your fingertips!
 
 
 
-Feel free to fork the repository for your own learning
+Feel free to fork the repository for your learning
 
 
 
